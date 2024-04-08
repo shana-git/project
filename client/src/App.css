@@ -1,0 +1,51 @@
+.App {
+  text-align: center;
+  justify-content: center;
+  
+}
+#gallery{
+  margin-left:34%;
+  margin-right:34%;
+}
+
+ .td{
+  width: 200px;
+
+} 
+
+.ourday{
+  position: relative;
+  border: 1px solid gray;
+  height: 125px;
+}
+.footer{
+  bottom:0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  position: absolute;
+}
+table {
+    border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+} */
+
+.responsiveTable {
+  width:90%
+}
+
+
+.cal{
+  margin: auto;
+  border: solid rgb(163, 158, 158) 1px;
+}
+
+/* @media only screen and (max-width: 1024px) {
+  .responsiveTable {
+  }
+} */
+
+.cul{
+  text-align: right;
+}
